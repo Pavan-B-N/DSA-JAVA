@@ -11,12 +11,16 @@ public class NumLen {
     }
 
     static int lenByDivision(int num) {
-        int l = 0;
-        while (num > 0) {
-            num = num / 10;// removing last digit
-            l++;
+        if (num < 0) {
+            num *= -1;
         }
-        return l;
+        int len = 0;
+        do {
+            len++;
+            num /= 10;
+        } while (num > 0);
+
+        return len;
     }
 
     static int lenByLog(int num) {
