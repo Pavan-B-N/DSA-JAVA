@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PascalsTriangle",
+            "request": "launch",
+            "mainClass": "BitwiseOperators.PascalsTriangle",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
