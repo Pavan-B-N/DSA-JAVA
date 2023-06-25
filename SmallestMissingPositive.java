@@ -19,7 +19,7 @@ public class SmallestMissingPositive {
     //first missing positive number
     static int smallestMissingPositiveNum(int[] arr){
          cyclicsort(arr);
-        // System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
          for (int index = 0; index < arr.length; index++) {
             if (index != arr[index] - 1) {
                 return index+1;

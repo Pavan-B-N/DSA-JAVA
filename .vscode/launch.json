@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AsciiTable",
+            "request": "launch",
+            "mainClass": "AsciiTable",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchIn2DArray",
+            "request": "launch",
+            "mainClass": "BinarySearchIn2DArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "BitonicArray",
+            "request": "launch",
+            "mainClass": "BitonicArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "CeilingOfNumber",
+            "request": "launch",
+            "mainClass": "CeilingOfNumber",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "CountKeyInNum",
+            "request": "launch",
+            "mainClass": "CountKeyInNum",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumberOfDigits",
+            "request": "launch",
+            "mainClass": "EvenNumberOfDigits",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Fibo",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "FindAllDuplicatesInArray",
+            "request": "launch",
+            "mainClass": "FindAllDuplicatesInArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "FindDisappearedNumberInArray",
+            "request": "launch",
+            "mainClass": "FindDisappearedNumberInArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicateInArray",
+            "request": "launch",
+            "mainClass": "FindDuplicateInArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "FindMinMaxInArray",
+            "request": "launch",
+            "mainClass": "FindMinMaxInArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "FindPositionInInfiniteArray",
+            "request": "launch",
+            "mainClass": "FindPositionInInfiniteArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "IsArmStrongNum",
+            "request": "launch",
+            "mainClass": "IsArmStrongNum",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "IsPrimeNum",
+            "request": "launch",
+            "mainClass": "IsPrimeNum",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "LinearStringSearch",
+            "request": "launch",
+            "mainClass": "LinearStringSearch",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "MatchRange",
+            "request": "launch",
+            "mainClass": "MatchRange",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "NextGreatestLetter",
+            "request": "launch",
+            "mainClass": "NextGreatestLetter",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "NumLen",
+            "request": "launch",
+            "mainClass": "NumLen",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "Patterns.p1",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p10",
+            "request": "launch",
+            "mainClass": "Patterns.p10",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "Patterns.p2",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "Patterns.p3",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "Patterns.p4",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p5",
+            "request": "launch",
+            "mainClass": "Patterns.p5",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p6",
+            "request": "launch",
+            "mainClass": "Patterns.p6",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p7",
+            "request": "launch",
+            "mainClass": "Patterns.p7",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p8",
+            "request": "launch",
+            "mainClass": "Patterns.p8",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "p9",
+            "request": "launch",
+            "mainClass": "Patterns.p9",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "Fibo(1)",
+            "request": "launch",
+            "mainClass": "Recursion.Fibo",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNum",
+            "request": "launch",
+            "mainClass": "ReverseNum",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "RotationCountOfAnArray",
+            "request": "launch",
+            "mainClass": "RotationCountOfAnArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "SearchBitonicArray",
+            "request": "launch",
+            "mainClass": "SearchBitonicArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "SearchIn2DArray",
+            "request": "launch",
+            "mainClass": "SearchIn2DArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "SearchInRotatedSortedArray",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "SetMismatch",
+            "request": "launch",
+            "mainClass": "SetMismatch",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "SmallestMissingPositive",
+            "request": "launch",
+            "mainClass": "SmallestMissingPositive",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "SpliArrayLargestSum",
+            "request": "launch",
+            "mainClass": "SpliArrayLargestSum",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "StringPlaindrome",
+            "request": "launch",
+            "mainClass": "StringPlaindrome",
+            "projectName": "DSA_2685dde1"
+        },
+        {
+            "type": "java",
+            "name": "Temp",
+            "request": "launch",
+            "mainClass": "Temp",
+            "projectName": "DSA_2685dde1"
+        }
+    ]
+}
